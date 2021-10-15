@@ -1,6 +1,9 @@
 ### Hi there 👋
-- Hi,I am Regan Yue👋
-- I love **OpenSource Spirit** ❤️
+- 👋 Hi,I am Regan Yue
+- ❤️ I love **OpenSource Spirit** 
+- 🌱 I’m currently learning Golang, Blockchain and Cloud Native 
+
+![gif](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
 ### Some Statistics About Me
 ![ReganYue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReganYue&show_icons=true&theme=radical)
@@ -11,10 +14,8 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReganYue&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
  
-👨‍💻 This week, I spent my time on:
 
-[![ReganYue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReganYue&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReganYue&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **ReganYue/ReganYue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
