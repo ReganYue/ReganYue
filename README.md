@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi,I am Regan Yue
 - ❤️ I love **OpenSource Spirit** 
-- 🌱 I’m currently learning Golang, Blockchain and Cloud Native 
+- 🌱 I’m currently learning Golang, Blockchain, Python and Cloud Native 
 
 ![gif](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
