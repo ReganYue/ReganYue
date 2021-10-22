@@ -2,6 +2,7 @@
 - 👋 Hi,I am Regan Yue
 - ❤️ I love **OpenSource Spirit** 
 - 🌱 I’m currently learning Golang, Blockchain, Python and Cloud Native 
+- My Email： finereganyue@gmail.com
 
 ![gif](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
