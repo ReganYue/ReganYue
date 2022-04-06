@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Golang, Blockchain, Python and Cloud Native 
 - My Email： finereganyue@gmail.com
 
-![gif](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
-
 ### Some Statistics About Me
 ![ReganYue's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReganYue&show_icons=true&theme=radical)
 
